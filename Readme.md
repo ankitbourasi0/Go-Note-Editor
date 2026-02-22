@@ -17,3 +17,12 @@ Bubble tea work on ELM architecture, it consists of 3 phase as follows
 
 
 ![img.png](img.png)
+
+## Add Styling 
+1. import in main.go
+```go
+import (
+    tea "github.com/charmbracelet/bubbletea"
+	 "github.com/charmbracelet/lipgloss"
+)
+```
